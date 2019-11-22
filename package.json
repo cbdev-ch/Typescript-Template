@@ -1,0 +1,22 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "description": "juicy npm Typescript Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbdev-ch/Typescript-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbdev-ch/Typescript-Template/issues"
+  },
+  "homepage": "https://github.com/cbdev-ch/Typescript-Template#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
